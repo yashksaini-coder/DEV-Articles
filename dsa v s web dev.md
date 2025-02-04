@@ -3,7 +3,7 @@
   
   # DSA v/s Web Dev
   
-  **Tags:** `webdev`, `datascience`, `beginners`, `discuss`
+  **Tags:** webdev, datascience, beginners, discuss
 
   **Published At:** 1/28/2024, 10:18:44 AM
 
