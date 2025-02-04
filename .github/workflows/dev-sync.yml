@@ -19,7 +19,7 @@ jobs:
         with:
           devApiKey: ${{ secrets.DEV_TOKEN }}
           saveArticles: true # default
-          # outputDir: "articles" # this will save the articles in "articles" directory
+          outputDir: "." # this will save the articles in "articles" directory
           saveArticlesReadme: true # this will create a table of content for easy navigation
           readTime: true
           
