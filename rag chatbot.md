@@ -3,7 +3,7 @@
   
   # RAG Chatbot
   
-  **Tags:** `python`, `webdev`, `beginners`, `opensource`
+  **Tags:** python, webdev, beginners, opensource
 
   **Published At:** 11/20/2024, 4:05:28 PM
 
