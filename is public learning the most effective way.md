@@ -3,7 +3,7 @@
   
   # Is Public Learning the most Effective way ?
   
-  **Tags:** `datascience`, `learning`, `webdev`, `community`
+  **Tags:** datascience, learning, webdev, community
 
   **Published At:** 3/10/2024, 7:12:25 AM
 
