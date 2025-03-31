@@ -3,7 +3,7 @@
   
   # Automate Discord Messages
   
-  **Tags:** `automaton`, `discord`, `opensource`, `python`
+  **Tags:** automaton, discord, opensource, python
 
   **Published At:** 3/29/2025, 10:40:03 AM
 
