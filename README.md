@@ -6,3 +6,4 @@
 - [Is Public Learning the most Effective way ?](./is%20public%20learning%20the%20most%20effective%20way.md)
 - [DSA v/s Web Dev](./dsa%20v%20s%20web%20dev.md)
 - [Automate Discord Messages](./automate%20discord%20messages.md)
+- [How I built a AI Agent server](./how%20i%20built%20a%20ai%20agent%20server.md)
