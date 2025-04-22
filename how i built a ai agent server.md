@@ -3,7 +3,7 @@
   
   # How I built a AI Agent server
   
-  **Tags:** `ai`, `fastapi`, `api`, `mcp`
+  **Tags:** ai, fastapi, api, mcp
 
   **Published At:** 4/20/2025, 6:40:54 PM
 
