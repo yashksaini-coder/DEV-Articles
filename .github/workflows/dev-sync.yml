@@ -2,7 +2,7 @@ name: DevtoGitHub
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Run daily, adjust as needed
+    - cron: "0 0 1 * *" # Run daily, adjust as needed
   workflow_dispatch:
   push:
     branches: ["main"]
